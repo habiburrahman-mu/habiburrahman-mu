@@ -6,9 +6,9 @@
 
 <!-- Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on Deep Learning.
-- 🌱 I’m currently learning MLOps.
-- 👯 I’m looking to collaborate on research.
+- 🔭 I’m currently working as a Machine Learning Engineer.
+<!-- - 🌱 I’m currently learning MLOps. -->
+<!-- - 👯 I’m looking to collaborate on research. -->
 - 💬 Ask me about machine learning.
 - 📫 How to reach me: Email/LinkedIn
 - 😄 Pronouns: He
