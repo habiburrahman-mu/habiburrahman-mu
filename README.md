@@ -14,6 +14,17 @@
 - 😄 Pronouns: He
 - ⚡ Fun fact: **No fun in my life**.
 
+## My Stack 🎯
+
+- Javascript
+- React
+- Node
+- Express
+- GraphQL
+- MySQL
+- MongoDB
+
+
 ## Publications
 
 - **M. H. Rahman**, M. M. Mowla and S. Shanto, "***[Convolutional Neural Network Based Optimization Approach for Wireless Resource Management](https://ieeexplore.ieee.org/document/9333532)***," *2020 2nd International Conference on Advanced Information and Communication Technology (ICAICT)*, Dhaka, Bangladesh, 2020, pp. 280-285, doi: 10.1109/ICAICT51780.2020.9333532.
