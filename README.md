@@ -7,9 +7,9 @@
 <!-- Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working as a Software Engineer.
-<!-- - 🌱 I’m currently learning MLOps. -->
+- 🌱 I’m currently learning Server side technologies.
 <!-- - 👯 I’m looking to collaborate on research. -->
-<!-- - 💬 Ask me about machine learning. -->
+- 💬 Ask me about Javascript/React/Node/GraphQL.
 - 📫 How to reach me: Email/LinkedIn
 - 😄 Pronouns: He
 - ⚡ Fun fact: **No fun in my life**.
