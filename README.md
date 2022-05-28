@@ -9,19 +9,18 @@
 - 🏁 I love software systems.
 - 🔭 I’m currently working as a Software Engineer.
 - 🌱 I’m currently learning Server side technologies.
-- 💬 Ask me about Javascript/C#/Typescript/Angular/Node/GraphQL.
+- 💬 Ask me about Javascript/C#/.NET/Typescript/Angular/Node/GraphQL.
 - 📫 How to reach me: Email/LinkedIn
 - 😄 Pronouns: He
 - ⚡ Fun fact: **No fun in my life**.
 
-<!-- - 👯 I’m looking to collaborate on research. -->
 
 ## My Stack 🎯
 
-- Javascript
 - C#
-- Typescript
+- Javascript
 - .NET
+- Typescript
 - Angular
 - Node
 - GraphQL
