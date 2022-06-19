@@ -30,9 +30,9 @@
 ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)
 
 ## Projects 👓
-- Kormo: A Todo App : [Github](https://github.com/habiburrahman-mu/kormo-angular)
+- #### Kormo: A Todo App: [Github](https://github.com/habiburrahman-mu/kormo-angular)
   - ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-- Buy-and-Rent-Home : 💹 [UI](https://github.com/habiburrahman-mu/Buy-and-Rent-Home-UI) ☢ [BackEnd](https://github.com/habiburrahman-mu/Buy-and-Rent-Home-WebAPI)
+- #### Buy-and-Rent-Home : 💹 [UI](https://github.com/habiburrahman-mu/Buy-and-Rent-Home-UI) ☢ [BackEnd](https://github.com/habiburrahman-mu/Buy-and-Rent-Home-WebAPI)
   - ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
   - ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
   - ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
