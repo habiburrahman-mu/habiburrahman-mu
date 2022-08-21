@@ -38,6 +38,7 @@
   - ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 ## Publications 🗞
+- **M. H. Rahman**, M. M. Mowla and S. Shanto, "***[Differential Privacy Enabled Deep Neural Networks for Wireless Resource Management](https://doi.org/10.1007/s11036-022-02013-6)***," *Journal of Mobile Networks and Applications*, Springer. doi: 10.1007/s11036-022-02013-6.
 
 - **M. H. Rahman**, M. M. Mowla and S. Shanto, "***[Convolutional Neural Network Based Optimization Approach for Wireless Resource Management](https://ieeexplore.ieee.org/document/9333532)***," *2020 2nd International Conference on Advanced Information and Communication Technology (ICAICT)*, Dhaka, Bangladesh, 2020, pp. 280-285, doi: 10.1109/ICAICT51780.2020.9333532.
 
