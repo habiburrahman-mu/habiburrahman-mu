@@ -1,80 +1,89 @@
-## 👋 Hi, I'm Habibur Rahman!
+# 👋 Hello! I'm Md Habibur Rahman
 
-**Software Engineer | .NET Enthusiast | Clean Code Advocate | Cloud Curious ☁️**
-
-Passionate about designing scalable software systems, clean architectures, and building things people love to use. When I’m not refactoring code or discussing architecture patterns, I’m probably working on my side projects or reading about distributed systems.
+Welcome to my GitHub — a space where **.NET backends, clean architectures, Azure services, and TypeScript frontends** meet purposeful design.
 
 ---
 
-## 🚀 About Me  
+## 🚀 About Me
 
-- 👨‍💻 Full-Stack Engineer with **3.5+ years** of professional experience  
-- 🛠️ Specializing in **C# | .NET | ASP.NET Core | Angular | TypeScript | Azure**  
-- 🌱 Currently exploring **Cloud Native Development, SaaS architecture, and System Design**  
-- 📖 Clean Code, TDD, DDD, and modern software practices believer  
-- 🎯 Personal goal: Build a SaaS product 🚀  
-
----
-
-## 💻 Tech Stack  
-
-**Backend:**  
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)  
-
-**Frontend:**  
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)  
-
-**Database & Messaging:**  
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)  
-![RabbitMq](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)  
-
-**Others:** Azure, Azure Functions, Azure Event Grid, Docker  
+🖥️ **Software Engineer II @ DataPath Ltd.**  
+🗓️ **4+ years of full-stack experience**  
+🌐 Specialized in **.NET, C#, Azure, Angular, and scalable API design**  
+📌 Passionate about **clean architecture**, **system design**, and **software craftsmanship**
 
 ---
 
-## 🛠️ Projects  
+## 🛠️ Tech I Work With
 
-- **[SyncChat 🔗](https://github.com/habiburrahman-mu)** — a modern chat application built on vertical slice architecture, RabbitMQ, and clean, minimal UI.
-- **[Buy Rent Home](https://github.com/habiburrahman-mu/Buy-and-Rent-Home-WebAPI)** — a full-stack property management platform using .NET and Angular.
-- **[Kormo](https://github.com/habiburrahman-mu/kormo-angular)** — a personal Todo app designed with clean architecture principles.
-
----
-
-## 📚 Publications  
-
-- **[Differential Privacy Enabled Deep Neural Networks for Wireless Resource Management](https://doi.org/10.1007/s11036-022-02013-6)** — *Journal of Mobile Networks and Applications (Springer)*
-- **[Convolutional Neural Network Based Optimization Approach for Wireless Resource Management](https://ieeexplore.ieee.org/document/9333532)** — *IEEE ICAICT 2020*
-- **[A Deep Neural Network Based Optimization Approach for Wireless Resource Management](https://ieeexplore.ieee.org/document/9230822)** — *IEEE TENSYMP 2020*
+- **Languages:** C#, TypeScript, JavaScript, SQL, Bash  
+- **Backend:** ASP.NET Core, Entity Framework Core, Minimal APIs, Azure Functions
+- **Frontend:** Angular, Angular Material, Primeng, TailwindCSS  
+- **Cloud & DevOps:** Azure App Service, Azure Web Apps, Azure Blob Storage, Azure Event Grid, Azure Service Bus, Docker
+- **DBMS:** MSSQL, PostgreSQL
+- **Practices:** Clean Code, TDD, Vertical Slice Architecture, Domain-Driven Design (DDD), CQRS  
 
 ---
 
-## 📢 Let's Connect  
+## 📈 Key Highlights
 
-- 📧 Email: habiburrahman.mu@gmail.com  
-- 💼 [LinkedIn](https://linkedin.com/in/habiburrahman-mu)  
-- 📝 Medium (Coming soon…)
-
----
-
-## ⚡ Fun Fact  
-
-I believe clean code isn’t optional — it’s a moral obligation.
+✨ **Built multiple enterprise-grade .NET APIs served to thousands of users**  
+✨ **Developing a real-time chat application (SyncChat) with Vertical Slice + Docker + Modern Minimal APIs**  
+✨ **Maintained 85%+ unit test coverage in critical services**  
+✨ **Introduced clean architecture restructuring in legacy projects - improved maintainability and scalability**  
+✨ **Consistently contributed to reducing technical debt and improving code health**  
+✨ **Published internal NuGet packages for shared libraries and improved developer productivity**
 
 ---
 
-## 📌 Future Goals  
+## 📊 Quick Personal Stats
 
-- 🌐 Release a production-ready SaaS platform  
-- ✈️ Speak at a tech meetup/conference  
-- 📚 Write technical blog posts on .NET, Azure, and system design  
-- 🚀 Contribute to open-source libraries and tools for the .NET community  
-
----
-
-![Habibur's GitHub stats](https://github-readme-stats.vercel.app/api?username=habiburrahman-mu&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=habiburrahman-mu&layout=compact&theme=radical)
+💪 4+ Years of Experience  
+📝 8+ Projects Delivered  
+🚀 4 Internal Tools Developed  
+🌐 3 Azure-integrated Solutions  
+📚 120+ Technical Articles & Blogs Read (this year alone!)  
+⚙️ 10+ Technical Articles Written
 
 ---
 
-⭐️ Thanks for visiting my profile!
+## 🌱 Currently Learning
+
+- More Azure Services
+- End-to-End Monitoring & Observability (Telemetry and Logging)
+- Event-Driven Architecture at scale
+- Microservice Architecture and it's internal communications
+
+---
+
+## 💡 Featured Project: **SyncChat**
+
+A modern real-time chat platform built with:
+
+- ✅ **Vertical Slice Architecture**
+- ✅ **Minimal APIs + CQRS**
+- ✅ **Dockerized Microservices**
+- ✅ **Clean endpoint registration pattern**
+- ✅ **JWT-based token authentication**
+- ✅ **Modern responsive UI (Angular + Tailwind)**
+
+**🚀 Launching soon — stay tuned!**
+
+---
+
+## 🎯 Professional Values
+
+- **Craft over code** — write code you’re proud of  
+- **Architecture first** — design scalable systems before building  
+- **Test what matters** — meaningful, maintainable tests  
+- **Clean is kind** — readable, maintainable code helps everyone  
+
+---
+
+## 📫 Let's Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/habiburrahman-mu)
+
+---
+
+_“Good software is built twice: first in the mind, then in the code.”_
+
