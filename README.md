@@ -6,7 +6,7 @@ Welcome to my GitHub — a space where **.NET backends, clean architectures, Azu
 
 ## 🚀 About Me
 
-🖥️ **Software Engineer II @ DataPath Ltd.**  
+🖥️ **Senior Software Engineer I @ DataPath Ltd.**  
 🗓️ **4+ years of full-stack experience**  
 🌐 Specialized in **.NET, C#, Azure, Angular, and scalable API design**  
 📌 Passionate about **clean architecture**, **system design**, and **software craftsmanship**
